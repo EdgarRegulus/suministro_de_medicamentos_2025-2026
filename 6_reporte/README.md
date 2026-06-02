@@ -1,4 +1,4 @@
-# 5_Report
+# 6_Reporte
 
 Esta carpeta contiene los entregables finales del proyecto **Análisis de solicitudes y entrega de medicamentos en el sector salud**.
 
