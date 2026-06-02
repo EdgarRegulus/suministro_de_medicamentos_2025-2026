@@ -1,4 +1,4 @@
-# Conjunto de datos
+# 2_conjunto_de_datos
 
 Esta carpeta contiene las fuentes de datos utilizadas para analizar la adquisición y distribución de medicamentos en instituciones públicas de salud de México.
 
