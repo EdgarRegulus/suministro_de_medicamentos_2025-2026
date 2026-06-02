@@ -72,26 +72,15 @@ Este enfoque permite que cada sección aporte contexto para interpretar la sigui
 
 ---
 
-# Principales hallazgos
+## Principales hallazgos
 
-## Dominio de la compra consolidada
-
-La compra consolidada concentra la gran mayoría de las piezas entregadas durante el periodo analizado, convirtiéndose en el principal mecanismo de abastecimiento.
-
-## Concentración institucional
-
-El IMSS concentra una proporción importante de las solicitudes y entregas registradas, influyendo significativamente en el comportamiento general del sistema.
-
-## Variabilidad temporal
-
-La demanda presenta picos y periodos de menor actividad, lo que sugiere oportunidades para fortalecer la planeación logística y la gestión de inventarios.
-
-## Oportunidades de ahorro
-
-Se identificaron adjudicaciones con precios superiores al mínimo observado para medicamentos equivalentes, revelando áreas potenciales de optimización del gasto.
-
-## Centralización territorial
-
-La distribución de medicamentos muestra una fuerte concentración en la Ciudad de México y una alta participación de almacenes como nodos principales de distribución.
+* La compra consolidada domina el suministro de medicamentos, concentrando aproximadamente el 91% de las piezas entregadas durante el periodo analizado.
+* El IMSS concentra la mayor proporción de solicitudes y entregas de medicamentos.
+* La demanda presenta una marcada variabilidad temporal con picos relevantes durante julio, noviembre y enero.
+* Las entregas siguen de manera cercana el comportamiento de las solicitudes, sugiriendo una respuesta operativa rápida del sistema.
+* Se identificaron adjudicaciones con márgenes significativos respecto al precio mínimo observado, representando oportunidades importantes de ahorro.
+* El análisis territorial muestra una fuerte concentración de volumen y diversidad de medicamentos en la Ciudad de México.
+* La distribución logística se encuentra centralizada, destinándose la mayor parte de las piezas a almacenes antes de llegar a las unidades médicas.
+* Existen diferencias importantes entre entidades federativas tanto en disponibilidad de medicamentos como en volumen de distribución.
 
 ---
