@@ -1,4 +1,5 @@
-# suministro_de_medicamentos_2025-2026
+# CASO DE ÉXITO: Análisis de solicitudes y entrega de medicamentos en el sector salud
+## Distribución y oportunidades de ahorro (2025-2026)
 Análisis integral de solicitudes, entregas y adquisiciones de medicamentos en el sector salud mexicano entre mayo de 2025 y febrero de 2026. Se utilizaron R y Tableau para transformar datos públicos en indicadores, visualizaciones e insights orientados a la toma de decisiones en la distribución de medicamentos. 
 
 
