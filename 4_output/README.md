@@ -1,4 +1,4 @@
-# 3_output — Resultados del procesamiento de datos
+# 4_output — Resultados del procesamiento de datos
 Estos archivos no se incluyen en el repositorio debido a su tamaño, ya que son demasiado pesados para ser versionados de forma eficiente. Por ello, el repositorio contiene únicamente el script `main.R`, que permite reproducir todo el proceso de generación de los datos desde cero.
 
 Esta carpeta contiene los archivos finales generados a partir del script principal en R (`main.R`). Estos archivos representan el resultado del proceso de limpieza, estandarización, integración y análisis de los datos provenientes de remisiones, adjudicaciones y catálogo CPV20.
