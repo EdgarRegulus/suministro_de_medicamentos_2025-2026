@@ -1,4 +1,4 @@
-# Visualization
+# Visualizaciones
 
 Esta carpeta contiene el archivo de Tableau utilizado para la exploración, análisis y visualización de los resultados del proyecto **Análisis de solicitudes y entrega de medicamentos en el sector salud**, así como las exportaciones individuales de cada visualización utilizadas en la presentación final.
 
